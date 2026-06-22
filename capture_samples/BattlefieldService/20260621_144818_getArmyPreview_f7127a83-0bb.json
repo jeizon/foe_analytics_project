@@ -1,0 +1,336 @@
+{
+  "request_id": "f7127a83-0bb4-49d4-915f-7a2fe33a2e0e",
+  "service_name": "BattlefieldService",
+  "method_name": "getArmyPreview",
+  "player_id": "unknown",
+  "world_id": "br10",
+  "captured_at": "2026-06-21 14:48:18.583929+00:00",
+  "service_payload": {
+    "__class__": "ServerResponse",
+    "requestId": 95,
+    "requestClass": "BattlefieldService",
+    "responseData": [
+      {
+        "id": 20017,
+        "units": [
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "gravity_gunner",
+            "currentHitpoints": 10
+          },
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "gravity_gunner",
+            "currentHitpoints": 10
+          },
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "gravity_gunner",
+            "currentHitpoints": 10
+          },
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "gravity_gunner",
+            "currentHitpoints": 10
+          },
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "currentHitpoints": 10
+          },
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "currentHitpoints": 10
+          },
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "currentHitpoints": 10
+          },
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "currentHitpoints": 10
+          }
+        ],
+        "__class__": "Army",
+        "fightType": {
+          "value": "defense",
+          "__enum__": "FightType"
+        }
+      },
+      {
+        "id": 20018,
+        "units": [
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "gravity_gunner",
+            "currentHitpoints": 10
+          },
+          {
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "__class__": "ArmyUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "gravity_gunner",
+            "currentHitpoints": 10
+          }
+        ],
+        "__class__": "Army",
+        "fightType": {
+          "value": "defense",
+          "__enum__": "FightType"
+        }
+      }
+    ],
+    "requestMethod": "getArmyPreview"
+  }
+}

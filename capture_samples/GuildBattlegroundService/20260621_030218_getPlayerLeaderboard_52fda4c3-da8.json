@@ -1,0 +1,826 @@
+{
+  "request_id": "52fda4c3-da8b-4551-804c-aabc3248a05a",
+  "service_name": "GuildBattlegroundService",
+  "method_name": "getPlayerLeaderboard",
+  "player_id": "unknown",
+  "world_id": "br10",
+  "captured_at": "2026-06-21 03:02:18.352934+00:00",
+  "service_payload": {
+    "__class__": "ServerResponse",
+    "requestId": 27,
+    "requestClass": "GuildBattlegroundService",
+    "responseData": [
+      {
+        "rank": 1,
+        "player": {
+          "name": "Tchari08",
+          "avatar": "portrait_id_147",
+          "__class__": "BasePlayer",
+          "player_id": 3921056
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "attrition": 36,
+        "battlesWon": 6596
+      },
+      {
+        "rank": 2,
+        "player": {
+          "name": "galvaomarcos",
+          "avatar": "addon_portrait_id_vik26_8",
+          "__class__": "BasePlayer",
+          "player_id": 4448115
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 2688
+      },
+      {
+        "rank": 3,
+        "player": {
+          "name": "Jey.",
+          "avatar": "addon_portrait_id_soccer23_1",
+          "__class__": "BasePlayer",
+          "player_id": 849240527
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 2299
+      },
+      {
+        "rank": 4,
+        "player": {
+          "name": "King Iron CWB",
+          "avatar": "addon_portrait_id_castle_system_dunstan",
+          "__class__": "BasePlayer",
+          "player_id": 849314555
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 2222
+      },
+      {
+        "rank": 5,
+        "player": {
+          "name": "EUMESMOHOJE",
+          "avatar": "portrait_id_1",
+          "__class__": "BasePlayer",
+          "player_id": 4283681
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 1751
+      },
+      {
+        "rank": 6,
+        "player": {
+          "name": "Legion",
+          "avatar": "addon_portrait_id_castle_system_lothar",
+          "__class__": "BasePlayer",
+          "player_id": 3168144
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 1651
+      },
+      {
+        "rank": 7,
+        "player": {
+          "name": "Cyber Punk",
+          "avatar": "addon_portrait_id_castle_system_lothar",
+          "__class__": "BasePlayer",
+          "player_id": 2723128
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 1112
+      },
+      {
+        "rank": 8,
+        "player": {
+          "name": "Eduvahkiin",
+          "avatar": "portrait_id_29",
+          "__class__": "BasePlayer",
+          "player_id": 4256830
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 1000
+      },
+      {
+        "rank": 9,
+        "player": {
+          "name": "Luiza *-*",
+          "avatar": "portrait_id_220",
+          "__class__": "BasePlayer",
+          "player_id": 849358186
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 972,
+        "negotiationsWon": 1
+      },
+      {
+        "rank": 10,
+        "player": {
+          "name": ".Rafael.",
+          "avatar": "addon_portrait_id_sum24_3",
+          "__class__": "BasePlayer",
+          "player_id": 4467093
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 838
+      },
+      {
+        "rank": 11,
+        "player": {
+          "name": "Jessie.",
+          "avatar": "addon_portrait_id_winter_passenger",
+          "__class__": "BasePlayer",
+          "player_id": 3562253
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 805
+      },
+      {
+        "rank": 12,
+        "player": {
+          "name": "Bebê Smurf",
+          "avatar": "addon_portrait_id_anni26_2",
+          "__class__": "BasePlayer",
+          "player_id": 3950530
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 786
+      },
+      {
+        "rank": 13,
+        "player": {
+          "name": "Maçaricos Amarelos",
+          "avatar": "addon_portrait_id_anniversary_hadwin",
+          "__class__": "BasePlayer",
+          "player_id": 849088039
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 738
+      },
+      {
+        "rank": 14,
+        "player": {
+          "name": "Mr. Stark",
+          "avatar": "portrait_id_92",
+          "__class__": "BasePlayer",
+          "player_id": 1689281
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 727
+      },
+      {
+        "rank": 15,
+        "player": {
+          "name": "Xerife Woddy",
+          "avatar": "addon_portrait_id_312",
+          "__class__": "BasePlayer",
+          "player_id": 3956581
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 726
+      },
+      {
+        "rank": 16,
+        "player": {
+          "name": "Yochiyuki",
+          "avatar": "portrait_id_170",
+          "__class__": "BasePlayer",
+          "player_id": 3754888
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 712
+      },
+      {
+        "rank": 17,
+        "player": {
+          "name": "dada23",
+          "avatar": "addon_portrait_id_pat_clodagh",
+          "__class__": "BasePlayer",
+          "player_id": 4318866
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 592
+      },
+      {
+        "rank": 18,
+        "player": {
+          "name": "brutux",
+          "avatar": "portrait_id_128",
+          "__class__": "BasePlayer",
+          "player_id": 4278232
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 577
+      },
+      {
+        "rank": 19,
+        "player": {
+          "name": "FuriousTroia",
+          "avatar": "addon_portrait_id_castle_system_anselm",
+          "__class__": "BasePlayer",
+          "player_id": 4161029
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 515
+      },
+      {
+        "rank": 20,
+        "player": {
+          "name": "OkanO",
+          "avatar": "portrait_id_16",
+          "__class__": "BasePlayer",
+          "player_id": 3991640
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 498
+      },
+      {
+        "rank": 21,
+        "player": {
+          "name": "AP-Apollo",
+          "avatar": "addon_portrait_id_carnival_male",
+          "__class__": "BasePlayer",
+          "player_id": 4155609
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 486
+      },
+      {
+        "rank": 22,
+        "player": {
+          "name": "Jrmicros",
+          "avatar": "addon_portrait_id_363",
+          "__class__": "BasePlayer",
+          "player_id": 829836
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 481
+      },
+      {
+        "rank": 23,
+        "player": {
+          "name": "Anna Bozena",
+          "avatar": "addon_portrait_id_gex5_nahuatl",
+          "__class__": "BasePlayer",
+          "player_id": 849042252
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 475
+      },
+      {
+        "rank": 24,
+        "player": {
+          "name": "Pinhead",
+          "avatar": "portrait_id_111",
+          "__class__": "BasePlayer",
+          "player_id": 849590134
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 442
+      },
+      {
+        "rank": 25,
+        "player": {
+          "name": "Lobos azul",
+          "avatar": "addon_portrait_id_wolfman",
+          "__class__": "BasePlayer",
+          "player_id": 849088041
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 418
+      },
+      {
+        "rank": 26,
+        "player": {
+          "name": "Ipso o defenestrador",
+          "avatar": "portrait_id_171",
+          "__class__": "BasePlayer",
+          "player_id": 4191810
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 406
+      },
+      {
+        "rank": 27,
+        "player": {
+          "name": "Sacerdotisa*",
+          "avatar": "addon_portrait_id_anastasiya",
+          "__class__": "BasePlayer",
+          "player_id": 3677182
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 402
+      },
+      {
+        "rank": 28,
+        "player": {
+          "name": "Rider Ghost",
+          "avatar": "portrait_id_22",
+          "__class__": "BasePlayer",
+          "player_id": 4368415
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 397
+      },
+      {
+        "rank": 29,
+        "player": {
+          "name": "Darksz",
+          "avatar": "portrait_id_16",
+          "__class__": "BasePlayer",
+          "player_id": 849735148
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 389
+      },
+      {
+        "rank": 30,
+        "player": {
+          "name": "Amice Borella",
+          "avatar": "addon_portrait_id_237",
+          "__class__": "BasePlayer",
+          "player_id": 849206352
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 380
+      },
+      {
+        "rank": 30,
+        "player": {
+          "name": "Lacerda.",
+          "avatar": "addon_portrait_id_gex5_quetzpallea",
+          "__class__": "BasePlayer",
+          "player_id": 3151374
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 380
+      },
+      {
+        "rank": 32,
+        "player": {
+          "name": "maifreitas",
+          "avatar": "portrait_id_36",
+          "__class__": "BasePlayer",
+          "player_id": 3734460
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 378
+      },
+      {
+        "rank": 33,
+        "player": {
+          "name": "Destruidor562",
+          "avatar": "portrait_id_209",
+          "__class__": "BasePlayer",
+          "player_id": 3388174
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 374
+      },
+      {
+        "rank": 34,
+        "player": {
+          "name": "Miss-Assassina",
+          "avatar": "addon_portrait_id_monroe",
+          "__class__": "BasePlayer",
+          "player_id": 3792487
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 355
+      },
+      {
+        "rank": 35,
+        "player": {
+          "name": "Capitão Caverna",
+          "avatar": "addon_portrait_id_jones",
+          "__class__": "BasePlayer",
+          "player_id": 1456924
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 353
+      },
+      {
+        "rank": 35,
+        "player": {
+          "name": "Sir-Sena",
+          "avatar": "addon_portrait_id_celeas",
+          "__class__": "BasePlayer",
+          "player_id": 2063204
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 353
+      },
+      {
+        "rank": 37,
+        "player": {
+          "name": "Asta",
+          "avatar": "portrait_id_145",
+          "__class__": "BasePlayer",
+          "player_id": 4384368
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 348
+      },
+      {
+        "rank": 38,
+        "player": {
+          "name": "Fididinha",
+          "avatar": "portrait_id_150",
+          "__class__": "BasePlayer",
+          "player_id": 4310616
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 336
+      },
+      {
+        "rank": 39,
+        "player": {
+          "name": "jeancrp",
+          "avatar": "addon_portrait_id_pat_red_beard",
+          "__class__": "BasePlayer",
+          "player_id": 4251288
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 332
+      },
+      {
+        "rank": 40,
+        "player": {
+          "name": "Sr Incognita",
+          "avatar": "portrait_id_16",
+          "__class__": "BasePlayer",
+          "player_id": 849201043
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 331
+      },
+      {
+        "rank": 41,
+        "player": {
+          "name": "Eva Vene",
+          "avatar": "addon_portrait_id_cop_egyptians_hemetre",
+          "__class__": "BasePlayer",
+          "player_id": 849488543
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 329
+      },
+      {
+        "rank": 42,
+        "player": {
+          "name": "13 JBS",
+          "avatar": "addon_portrait_id_care25_1",
+          "__class__": "BasePlayer",
+          "player_id": 849870840
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 302
+      },
+      {
+        "rank": 42,
+        "player": {
+          "name": "tavex",
+          "avatar": "portrait_id_1",
+          "__class__": "BasePlayer",
+          "player_id": 4288864
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 302
+      },
+      {
+        "rank": 44,
+        "player": {
+          "name": "Rutender Stavics",
+          "avatar": "addon_portrait_id_frank",
+          "__class__": "BasePlayer",
+          "player_id": 4289271
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 296
+      },
+      {
+        "rank": 45,
+        "player": {
+          "name": "guitarra3",
+          "avatar": "addon_portrait_id_napoleon",
+          "__class__": "BasePlayer",
+          "player_id": 849069570
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 261
+      },
+      {
+        "rank": 46,
+        "player": {
+          "name": "Corvos vermelhos",
+          "avatar": "addon_portrait_id_jeoff",
+          "__class__": "BasePlayer",
+          "player_id": 849088037
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 243
+      },
+      {
+        "rank": 47,
+        "player": {
+          "name": "ShadowlordIII",
+          "avatar": "addon_portrait_id_sum25_2",
+          "__class__": "BasePlayer",
+          "player_id": 3817039
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 204
+      },
+      {
+        "rank": 48,
+        "player": {
+          "name": "Rosco o kromatóphoro",
+          "avatar": "addon_portrait_id_wildlife_charles",
+          "__class__": "BasePlayer",
+          "player_id": 849416354
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 184
+      },
+      {
+        "rank": 49,
+        "player": {
+          "name": ".Caio",
+          "avatar": "addon_portrait_id_halloween_harlequin",
+          "__class__": "BasePlayer",
+          "player_id": 4280264
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 183
+      },
+      {
+        "rank": 50,
+        "player": {
+          "name": "Astral3",
+          "avatar": "addon_portrait_id_gex5_tonalnan",
+          "__class__": "BasePlayer",
+          "player_id": 3916343
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 176
+      },
+      {
+        "rank": 51,
+        "player": {
+          "name": "OnePiece",
+          "avatar": "addon_portrait_id_summer_bill",
+          "__class__": "BasePlayer",
+          "player_id": 849441219
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 125
+      },
+      {
+        "rank": 52,
+        "player": {
+          "name": "Tio isso",
+          "avatar": "addon_portrait_id_lawrence",
+          "__class__": "BasePlayer",
+          "player_id": 4481501
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 114
+      },
+      {
+        "rank": 53,
+        "player": {
+          "name": "Lépidos",
+          "avatar": "addon_portrait_id_fell25_4",
+          "__class__": "BasePlayer",
+          "player_id": 850012087
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 60
+      },
+      {
+        "rank": 54,
+        "player": {
+          "name": "Anjo Guerrero1",
+          "avatar": "addon_portrait_id_win24_8",
+          "__class__": "BasePlayer",
+          "player_id": 849773142
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 54
+      },
+      {
+        "rank": 55,
+        "player": {
+          "name": "Touro verde",
+          "avatar": "addon_portrait_id_care24_2",
+          "__class__": "BasePlayer",
+          "player_id": 848954031
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 48
+      },
+      {
+        "rank": 56,
+        "player": {
+          "name": "GustavoGatto",
+          "avatar": "portrait_id_57",
+          "__class__": "BasePlayer",
+          "player_id": 4254385
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 29
+      },
+      {
+        "rank": 57,
+        "player": {
+          "name": "Cadmus Black Angel",
+          "avatar": "addon_portrait_id_anni26_2",
+          "__class__": "BasePlayer",
+          "player_id": 3756629
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 25
+      },
+      {
+        "rank": 58,
+        "player": {
+          "name": "TOMB RAIDER",
+          "avatar": "portrait_id_222",
+          "__class__": "BasePlayer",
+          "player_id": 4166412
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard",
+        "battlesWon": 5
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Apocalipse.",
+          "avatar": "addon_portrait_id_castle_system_lothar",
+          "__class__": "BasePlayer",
+          "player_id": 849827283
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "BSM10",
+          "avatar": "addon_portrait_id_archeology_scarab_king",
+          "__class__": "BasePlayer",
+          "player_id": 3408629
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Butiha",
+          "avatar": "addon_portrait_id_318",
+          "__class__": "BasePlayer",
+          "player_id": 3526724
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "City of Ichiru",
+          "avatar": "addon_portrait_id_halloween_harlequin",
+          "__class__": "BasePlayer",
+          "player_id": 3386855
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Dias Ctba",
+          "avatar": "addon_portrait_id_403",
+          "__class__": "BasePlayer",
+          "player_id": 4160021
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "edy o loko41",
+          "avatar": "addon_portrait_id_jeoff",
+          "__class__": "BasePlayer",
+          "player_id": 3115171
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Eurofighter",
+          "avatar": "addon_portrait_id_castle_system_lothar",
+          "__class__": "BasePlayer",
+          "player_id": 4171624
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Gusmão",
+          "avatar": "portrait_id_95",
+          "__class__": "BasePlayer",
+          "player_id": 849447449
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Índio Águia",
+          "avatar": "portrait_id_111",
+          "__class__": "BasePlayer",
+          "player_id": 954118
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Jun Virus",
+          "avatar": "portrait_id_16",
+          "__class__": "BasePlayer",
+          "player_id": 849022644
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Marrentinho1306",
+          "avatar": "addon_portrait_id_481",
+          "__class__": "BasePlayer",
+          "player_id": 3806421
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "natan68",
+          "avatar": "portrait_id_21",
+          "__class__": "BasePlayer",
+          "player_id": 4288831
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Newforce",
+          "avatar": "addon_portrait_id_vik26_2",
+          "__class__": "BasePlayer",
+          "player_id": 3881499
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Santana Empire",
+          "avatar": "addon_portrait_id_nelson",
+          "__class__": "BasePlayer",
+          "player_id": 3991464
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Sidforge",
+          "avatar": "portrait_id_147",
+          "__class__": "BasePlayer",
+          "player_id": 4082235
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "Ton Neto",
+          "avatar": "addon_portrait_id_maharaja",
+          "__class__": "BasePlayer",
+          "player_id": 337938
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      },
+      {
+        "rank": 59,
+        "player": {
+          "name": "veralucia",
+          "avatar": "portrait_id_150",
+          "__class__": "BasePlayer",
+          "player_id": 4286748
+        },
+        "__class__": "GuildBattlegroundPlayerParticipantLeaderboard"
+      }
+    ],
+    "requestMethod": "getPlayerLeaderboard"
+  }
+}

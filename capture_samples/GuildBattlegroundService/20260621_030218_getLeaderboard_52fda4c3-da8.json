@@ -1,0 +1,397 @@
+{
+  "request_id": "52fda4c3-da8b-4551-804c-aabc3248a05a",
+  "service_name": "GuildBattlegroundService",
+  "method_name": "getLeaderboard",
+  "player_id": "unknown",
+  "world_id": "br10",
+  "captured_at": "2026-06-21 03:02:18.352934+00:00",
+  "service_payload": {
+    "__class__": "ServerResponse",
+    "requestId": 26,
+    "requestClass": "GuildBattlegroundService",
+    "responseData": [
+      {
+        "clan": {
+          "id": 17,
+          "flag": "flag_26",
+          "name": "INSANOS",
+          "__class__": "BaseClan",
+          "membersNum": 75
+        },
+        "rank": 1,
+        "reward": {
+          "__class__": "GuildBattlegroundLeaderboardReward",
+          "guildReward": {
+            "__class__": "GuildBattlegroundLeaderboardGuildReward",
+            "guildPower": 546000
+          },
+          "playerRewards": [
+            {
+              "id": "fragment#selection_kit_GBG26C#3000",
+              "name": "3000 fragmentos de Kit de Seleção para Agência de Inteligência",
+              "type": "consumable",
+              "flags": [],
+              "amount": 3000,
+              "subType": "fragment",
+              "__class__": "FragmentReward",
+              "boostValue": 1.0,
+              "description": "Junte fragmentos suficientes para montar Kit de Seleção para Agência de Inteligência",
+              "iconAssetName": "icon_fragment",
+              "requiredAmount": 7500,
+              "assembledReward": {
+                "id": "selection_kit_GBG26C",
+                "name": "Kit de Seleção para Agência de Inteligência",
+                "type": "consumable",
+                "flags": [
+                  "epic"
+                ],
+                "amount": 1,
+                "subType": "selection_kit",
+                "__class__": "GenericReward",
+                "boostValue": 1.0,
+                "description": "Escolha entre um kit de melhoria ou o edifício base da Agência de Inteligência",
+                "iconAssetName": "selection_kit_GBG26C"
+              }
+            },
+            {
+              "id": "fragment#selection_kit_GBG26D#1500",
+              "name": "1500 fragmentos de Kit de Seleção para Centro de Inteligência",
+              "type": "consumable",
+              "flags": [],
+              "amount": 1500,
+              "subType": "fragment",
+              "__class__": "FragmentReward",
+              "boostValue": 1.0,
+              "description": "Junte fragmentos suficientes para montar Kit de Seleção para Centro de Inteligência",
+              "iconAssetName": "icon_fragment",
+              "requiredAmount": 500,
+              "assembledReward": {
+                "id": "selection_kit_GBG26D",
+                "name": "Kit de Seleção para Centro de Inteligência",
+                "type": "consumable",
+                "flags": [
+                  "epic"
+                ],
+                "amount": 1,
+                "subType": "selection_kit",
+                "__class__": "GenericReward",
+                "boostValue": 1.0,
+                "description": "Escolha entre um kit de melhoria ou o edifício base do Centro de Inteligência.",
+                "iconAssetName": "selection_kit_GBG26D"
+              }
+            },
+            {
+              "id": "resource#gbg_gold_coin#50000",
+              "name": "50.000 Moedas de Ouro do Campo de Batalha",
+              "type": "resource",
+              "flags": [],
+              "amount": 50000,
+              "subType": "gbg_gold_coin",
+              "__class__": "GenericReward",
+              "boostValue": 1.0,
+              "description": "Colete Moedas de Ouro como recompensa nos Campos de Batalha da Guilda. Essa moeda não expira.",
+              "iconAssetName": "gbg_gold_coin"
+            },
+            {
+              "id": "resource#gbg_platinum_coin#25000",
+              "name": "25.000 Moedas de Platina do Campo de Batalha",
+              "type": "resource",
+              "flags": [],
+              "amount": 25000,
+              "subType": "gbg_platinum_coin",
+              "__class__": "GenericReward",
+              "boostValue": 1.0,
+              "description": "Colete Moedas de Platina como recompensa nos Campos de Batalha da Guilda. Essa moeda não expira.",
+              "iconAssetName": "gbg_platinum_coin"
+            }
+          ]
+        },
+        "__class__": "GuildBattlegroundLeaderboardEntry",
+        "provinces": 38,
+        "ratingChange": 25,
+        "victoryPointsTotal": 428113,
+        "victoryPointsHourly": 8468
+      },
+      {
+        "clan": {
+          "id": 12,
+          "flag": "premium_flag_2",
+          "name": "WaR MachinE",
+          "__class__": "BaseClan",
+          "membersNum": 79
+        },
+        "rank": 2,
+        "reward": {
+          "__class__": "GuildBattlegroundLeaderboardReward",
+          "guildReward": {
+            "__class__": "GuildBattlegroundLeaderboardGuildReward",
+            "guildPower": 478200
+          },
+          "playerRewards": [
+            {
+              "id": "fragment#selection_kit_GBG26C#1000",
+              "name": "1000 fragmentos de Kit de Seleção para Agência de Inteligência",
+              "type": "consumable",
+              "flags": [],
+              "amount": 1000,
+              "subType": "fragment",
+              "__class__": "FragmentReward",
+              "boostValue": 1.0,
+              "description": "Junte fragmentos suficientes para montar Kit de Seleção para Agência de Inteligência",
+              "iconAssetName": "icon_fragment",
+              "requiredAmount": 7500,
+              "assembledReward": {
+                "id": "selection_kit_GBG26C",
+                "name": "Kit de Seleção para Agência de Inteligência",
+                "type": "consumable",
+                "flags": [
+                  "epic"
+                ],
+                "amount": 1,
+                "subType": "selection_kit",
+                "__class__": "GenericReward",
+                "boostValue": 1.0,
+                "description": "Escolha entre um kit de melhoria ou o edifício base da Agência de Inteligência",
+                "iconAssetName": "selection_kit_GBG26C"
+              }
+            },
+            {
+              "id": "fragment#selection_kit_GBG26D#1000",
+              "name": "1000 fragmentos de Kit de Seleção para Centro de Inteligência",
+              "type": "consumable",
+              "flags": [],
+              "amount": 1000,
+              "subType": "fragment",
+              "__class__": "FragmentReward",
+              "boostValue": 1.0,
+              "description": "Junte fragmentos suficientes para montar Kit de Seleção para Centro de Inteligência",
+              "iconAssetName": "icon_fragment",
+              "requiredAmount": 500,
+              "assembledReward": {
+                "id": "selection_kit_GBG26D",
+                "name": "Kit de Seleção para Centro de Inteligência",
+                "type": "consumable",
+                "flags": [
+                  "epic"
+                ],
+                "amount": 1,
+                "subType": "selection_kit",
+                "__class__": "GenericReward",
+                "boostValue": 1.0,
+                "description": "Escolha entre um kit de melhoria ou o edifício base do Centro de Inteligência.",
+                "iconAssetName": "selection_kit_GBG26D"
+              }
+            },
+            {
+              "id": "resource#gbg_gold_coin#40000",
+              "name": "40.000 Moedas de Ouro do Campo de Batalha",
+              "type": "resource",
+              "flags": [],
+              "amount": 40000,
+              "subType": "gbg_gold_coin",
+              "__class__": "GenericReward",
+              "boostValue": 1.0,
+              "description": "Colete Moedas de Ouro como recompensa nos Campos de Batalha da Guilda. Essa moeda não expira.",
+              "iconAssetName": "gbg_gold_coin"
+            },
+            {
+              "id": "resource#gbg_platinum_coin#20000",
+              "name": "20.000 Moedas de Platina do Campo de Batalha",
+              "type": "resource",
+              "flags": [],
+              "amount": 20000,
+              "subType": "gbg_platinum_coin",
+              "__class__": "GenericReward",
+              "boostValue": 1.0,
+              "description": "Colete Moedas de Platina como recompensa nos Campos de Batalha da Guilda. Essa moeda não expira.",
+              "iconAssetName": "gbg_platinum_coin"
+            }
+          ]
+        },
+        "__class__": "GuildBattlegroundLeaderboardEntry",
+        "provinces": 18,
+        "ratingChange": 25,
+        "victoryPointsTotal": 328566,
+        "victoryPointsHourly": 4385
+      },
+      {
+        "clan": {
+          "id": 6,
+          "flag": "premium_flag_1",
+          "name": "Øs ƗmøraiՖ",
+          "__class__": "BaseClan",
+          "membersNum": 58
+        },
+        "rank": 3,
+        "reward": {
+          "__class__": "GuildBattlegroundLeaderboardReward",
+          "guildReward": {
+            "__class__": "GuildBattlegroundLeaderboardGuildReward",
+            "guildPower": 432200
+          },
+          "playerRewards": [
+            {
+              "id": "fragment#selection_kit_GBG26C#500",
+              "name": "500 fragmentos de Kit de Seleção para Agência de Inteligência",
+              "type": "consumable",
+              "flags": [],
+              "amount": 500,
+              "subType": "fragment",
+              "__class__": "FragmentReward",
+              "boostValue": 1.0,
+              "description": "Junte fragmentos suficientes para montar Kit de Seleção para Agência de Inteligência",
+              "iconAssetName": "icon_fragment",
+              "requiredAmount": 7500,
+              "assembledReward": {
+                "id": "selection_kit_GBG26C",
+                "name": "Kit de Seleção para Agência de Inteligência",
+                "type": "consumable",
+                "flags": [
+                  "epic"
+                ],
+                "amount": 1,
+                "subType": "selection_kit",
+                "__class__": "GenericReward",
+                "boostValue": 1.0,
+                "description": "Escolha entre um kit de melhoria ou o edifício base da Agência de Inteligência",
+                "iconAssetName": "selection_kit_GBG26C"
+              }
+            },
+            {
+              "id": "fragment#selection_kit_GBG26D#500",
+              "name": "500 fragmentos de Kit de Seleção para Centro de Inteligência",
+              "type": "consumable",
+              "flags": [],
+              "amount": 500,
+              "subType": "fragment",
+              "__class__": "FragmentReward",
+              "boostValue": 1.0,
+              "description": "Junte fragmentos suficientes para montar Kit de Seleção para Centro de Inteligência",
+              "iconAssetName": "icon_fragment",
+              "requiredAmount": 500,
+              "assembledReward": {
+                "id": "selection_kit_GBG26D",
+                "name": "Kit de Seleção para Centro de Inteligência",
+                "type": "consumable",
+                "flags": [
+                  "epic"
+                ],
+                "amount": 1,
+                "subType": "selection_kit",
+                "__class__": "GenericReward",
+                "boostValue": 1.0,
+                "description": "Escolha entre um kit de melhoria ou o edifício base do Centro de Inteligência.",
+                "iconAssetName": "selection_kit_GBG26D"
+              }
+            },
+            {
+              "id": "resource#gbg_gold_coin#35000",
+              "name": "35.000 Moedas de Ouro do Campo de Batalha",
+              "type": "resource",
+              "flags": [],
+              "amount": 35000,
+              "subType": "gbg_gold_coin",
+              "__class__": "GenericReward",
+              "boostValue": 1.0,
+              "description": "Colete Moedas de Ouro como recompensa nos Campos de Batalha da Guilda. Essa moeda não expira.",
+              "iconAssetName": "gbg_gold_coin"
+            },
+            {
+              "id": "resource#gbg_platinum_coin#17500",
+              "name": "17.500 Moedas de Platina do Campo de Batalha",
+              "type": "resource",
+              "flags": [],
+              "amount": 17500,
+              "subType": "gbg_platinum_coin",
+              "__class__": "GenericReward",
+              "boostValue": 1.0,
+              "description": "Colete Moedas de Platina como recompensa nos Campos de Batalha da Guilda. Essa moeda não expira.",
+              "iconAssetName": "gbg_platinum_coin"
+            }
+          ]
+        },
+        "__class__": "GuildBattlegroundLeaderboardEntry",
+        "provinces": 3,
+        "ratingChange": 25,
+        "victoryPointsTotal": 91237,
+        "victoryPointsHourly": 1245
+      },
+      {
+        "clan": {
+          "id": 25,
+          "flag": "flag_26",
+          "name": "LEGIONÁRIOS LIVRE",
+          "__class__": "BaseClan",
+          "membersNum": 36
+        },
+        "rank": 4,
+        "reward": {
+          "__class__": "GuildBattlegroundLeaderboardReward",
+          "guildReward": {
+            "__class__": "GuildBattlegroundLeaderboardGuildReward",
+            "guildPower": 407400
+          },
+          "playerRewards": [
+            {
+              "id": "fragment#selection_kit_GBG26D#300",
+              "name": "300 fragmentos de Kit de Seleção para Centro de Inteligência",
+              "type": "consumable",
+              "flags": [],
+              "amount": 300,
+              "subType": "fragment",
+              "__class__": "FragmentReward",
+              "boostValue": 1.0,
+              "description": "Junte fragmentos suficientes para montar Kit de Seleção para Centro de Inteligência",
+              "iconAssetName": "icon_fragment",
+              "requiredAmount": 500,
+              "assembledReward": {
+                "id": "selection_kit_GBG26D",
+                "name": "Kit de Seleção para Centro de Inteligência",
+                "type": "consumable",
+                "flags": [
+                  "epic"
+                ],
+                "amount": 1,
+                "subType": "selection_kit",
+                "__class__": "GenericReward",
+                "boostValue": 1.0,
+                "description": "Escolha entre um kit de melhoria ou o edifício base do Centro de Inteligência.",
+                "iconAssetName": "selection_kit_GBG26D"
+              }
+            },
+            {
+              "id": "resource#gbg_gold_coin#30000",
+              "name": "30.000 Moedas de Ouro do Campo de Batalha",
+              "type": "resource",
+              "flags": [],
+              "amount": 30000,
+              "subType": "gbg_gold_coin",
+              "__class__": "GenericReward",
+              "boostValue": 1.0,
+              "description": "Colete Moedas de Ouro como recompensa nos Campos de Batalha da Guilda. Essa moeda não expira.",
+              "iconAssetName": "gbg_gold_coin"
+            },
+            {
+              "id": "resource#gbg_platinum_coin#15000",
+              "name": "15.000 Moedas de Platina do Campo de Batalha",
+              "type": "resource",
+              "flags": [],
+              "amount": 15000,
+              "subType": "gbg_platinum_coin",
+              "__class__": "GenericReward",
+              "boostValue": 1.0,
+              "description": "Colete Moedas de Platina como recompensa nos Campos de Batalha da Guilda. Essa moeda não expira.",
+              "iconAssetName": "gbg_platinum_coin"
+            }
+          ]
+        },
+        "__class__": "GuildBattlegroundLeaderboardEntry",
+        "provinces": 2,
+        "ratingChange": 25,
+        "victoryPointsTotal": 77487,
+        "victoryPointsHourly": 150
+      }
+    ],
+    "requestMethod": "getLeaderboard"
+  }
+}

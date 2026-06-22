@@ -1,0 +1,2638 @@
+{
+  "request_id": "a5d97503-f663-4c64-905f-0587cdcdc0dd",
+  "service_name": "BattlefieldService",
+  "method_name": "startByBattleType",
+  "player_id": "unknown",
+  "world_id": "br10",
+  "captured_at": "2026-06-21 14:48:15.785802+00:00",
+  "service_payload": {
+    "__class__": "ServerResponse",
+    "requestId": 89,
+    "requestClass": "BattlefieldService",
+    "responseData": {
+      "ais": {
+        "1": "simple",
+        "2": "improved"
+      },
+      "state": {
+        "_w": 200935361,
+        "_z": 69058188,
+        "round": 1,
+        "__class__": "BattleRealmState",
+        "winnerBit": 1,
+        "unitsOrder": [
+          {
+            "pos": {
+              "x": 4,
+              "y": 4,
+              "__class__": "Position"
+            },
+            "unitId": -6,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "ownerId": -1,
+            "startpos": {
+              "x": 14,
+              "y": 4,
+              "__class__": "Position"
+            },
+            "teamFlag": 2,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "startHitpoints": 10,
+            "teamInitiative": 6,
+            "lastRetaliationRound": -1
+          },
+          {
+            "pos": {
+              "x": 4,
+              "y": 9,
+              "__class__": "Position"
+            },
+            "unitId": -5,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "ownerId": -1,
+            "startpos": {
+              "x": 14,
+              "y": 9,
+              "__class__": "Position"
+            },
+            "teamFlag": 2,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "startHitpoints": 10,
+            "teamInitiative": 5,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 1
+          },
+          {
+            "pos": {
+              "x": 4,
+              "y": 5,
+              "__class__": "Position"
+            },
+            "unitId": -4,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "ownerId": -1,
+            "startpos": {
+              "x": 14,
+              "y": 5,
+              "__class__": "Position"
+            },
+            "teamFlag": 2,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "startHitpoints": 10,
+            "teamInitiative": 4,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 2
+          },
+          {
+            "pos": {
+              "x": 4,
+              "y": 7,
+              "__class__": "Position"
+            },
+            "unitId": -3,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "ownerId": -1,
+            "startpos": {
+              "x": 14,
+              "y": 8,
+              "__class__": "Position"
+            },
+            "teamFlag": 2,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "startHitpoints": 10,
+            "teamInitiative": 3,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 3
+          },
+          {
+            "pos": {
+              "x": 4,
+              "y": 6,
+              "__class__": "Position"
+            },
+            "unitId": -2,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "ownerId": -1,
+            "startpos": {
+              "x": 14,
+              "y": 6,
+              "__class__": "Position"
+            },
+            "teamFlag": 2,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "startHitpoints": 10,
+            "teamInitiative": 2,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 4
+          },
+          {
+            "pos": {
+              "x": 5,
+              "y": 6,
+              "__class__": "Position"
+            },
+            "unitId": -1,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "ownerId": -1,
+            "startpos": {
+              "x": 14,
+              "y": 7,
+              "__class__": "Position"
+            },
+            "teamFlag": 2,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "flying",
+                "name": "Voar",
+                "type": "flying",
+                "__class__": "BattleFlyingAbility",
+                "description": "Não pode ser atacado por artilharia. Ignora o terreno em movimento"
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "stardust_sentinel",
+            "startHitpoints": 10,
+            "teamInitiative": 1,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 5
+          },
+          {
+            "pos": {
+              "x": 3,
+              "y": 11,
+              "__class__": "Position"
+            },
+            "unitId": 129,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 410.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "military_boost",
+                "value": 510.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "attacker_defense_boost",
+                "value": 23773,
+                "__class__": "MilitaryUnitBonus"
+              },
+              {
+                "type": "attack_boost",
+                "value": 25625,
+                "__class__": "MilitaryUnitBonus"
+              }
+            ],
+            "ownerId": 849240527,
+            "startpos": {
+              "y": 10,
+              "__class__": "Position"
+            },
+            "teamFlag": 1,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              },
+              {
+                "type": "critical_hit_chance",
+                "value": 56.35333335,
+                "__class__": "BattleCriticalHitChanceAbility"
+              }
+            ],
+            "unitTypeId": "gravity_gunner",
+            "is_attacking": true,
+            "startHitpoints": 10,
+            "teamInitiative": 2,
+            "currentHitpoints": 10,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 6,
+            "next_healing_step_size": 864
+          },
+          {
+            "pos": {
+              "x": 2,
+              "y": 2,
+              "__class__": "Position"
+            },
+            "unitId": 2177,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 410.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "military_boost",
+                "value": 510.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "attacker_defense_boost",
+                "value": 23773,
+                "__class__": "MilitaryUnitBonus"
+              },
+              {
+                "type": "attack_boost",
+                "value": 25625,
+                "__class__": "MilitaryUnitBonus"
+              }
+            ],
+            "ownerId": 849240527,
+            "startpos": {
+              "y": 3,
+              "__class__": "Position"
+            },
+            "teamFlag": 1,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              },
+              {
+                "type": "critical_hit_chance",
+                "value": 56.35333335,
+                "__class__": "BattleCriticalHitChanceAbility"
+              }
+            ],
+            "unitTypeId": "gravity_gunner",
+            "is_attacking": true,
+            "startHitpoints": 10,
+            "teamInitiative": 1,
+            "currentHitpoints": 10,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 7,
+            "next_healing_step_size": 864
+          },
+          {
+            "pos": {
+              "y": 9,
+              "__class__": "Position"
+            },
+            "unitId": 123,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 410.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "military_boost",
+                "value": 510.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "attacker_defense_boost",
+                "value": 23773,
+                "__class__": "MilitaryUnitBonus"
+              },
+              {
+                "type": "attack_boost",
+                "value": 25625,
+                "__class__": "MilitaryUnitBonus"
+              }
+            ],
+            "ownerId": 849240527,
+            "startpos": {
+              "y": 9,
+              "__class__": "Position"
+            },
+            "teamFlag": 1,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "power_shot",
+                "name": "Jogada potente",
+                "type": "power_shot",
+                "__class__": "BattlePowerShotAbility",
+                "description": "Ignora a maioria das habilidades de defesa e terreno."
+              },
+              {
+                "type": "critical_hit_chance",
+                "value": 56.35333335,
+                "__class__": "BattleCriticalHitChanceAbility"
+              }
+            ],
+            "unitTypeId": "dream_dust_blaster",
+            "is_attacking": true,
+            "startHitpoints": 10,
+            "teamInitiative": 2,
+            "currentHitpoints": 6,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 8,
+            "next_healing_step_size": 864
+          },
+          {
+            "pos": {
+              "x": 12,
+              "y": 2,
+              "__class__": "Position"
+            },
+            "unitId": -8,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "ownerId": -1,
+            "startpos": {
+              "x": 14,
+              "y": 3,
+              "__class__": "Position"
+            },
+            "teamFlag": 2,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "power_shot",
+                "name": "Jogada potente",
+                "type": "power_shot",
+                "__class__": "BattlePowerShotAbility",
+                "description": "Ignora a maioria das habilidades de defesa e terreno."
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "dream_dust_blaster",
+            "startHitpoints": 10,
+            "teamInitiative": 2,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 9
+          },
+          {
+            "pos": {
+              "y": 4,
+              "__class__": "Position"
+            },
+            "unitId": 2171,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 410.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "military_boost",
+                "value": 510.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "attacker_defense_boost",
+                "value": 23773,
+                "__class__": "MilitaryUnitBonus"
+              },
+              {
+                "type": "attack_boost",
+                "value": 25625,
+                "__class__": "MilitaryUnitBonus"
+              }
+            ],
+            "ownerId": 849240527,
+            "startpos": {
+              "y": 4,
+              "__class__": "Position"
+            },
+            "teamFlag": 1,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "power_shot",
+                "name": "Jogada potente",
+                "type": "power_shot",
+                "__class__": "BattlePowerShotAbility",
+                "description": "Ignora a maioria das habilidades de defesa e terreno."
+              },
+              {
+                "type": "critical_hit_chance",
+                "value": 56.35333335,
+                "__class__": "BattleCriticalHitChanceAbility"
+              }
+            ],
+            "unitTypeId": "dream_dust_blaster",
+            "is_attacking": true,
+            "startHitpoints": 10,
+            "teamInitiative": 1,
+            "currentHitpoints": 10,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 10,
+            "next_healing_step_size": 864
+          },
+          {
+            "pos": {
+              "x": 12,
+              "y": 13,
+              "__class__": "Position"
+            },
+            "unitId": -7,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 8189,
+                "__class__": "CampaignUnitBonus"
+              }
+            ],
+            "ownerId": -1,
+            "startpos": {
+              "x": 14,
+              "y": 10,
+              "__class__": "Position"
+            },
+            "teamFlag": 2,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "power_shot",
+                "name": "Jogada potente",
+                "type": "power_shot",
+                "__class__": "BattlePowerShotAbility",
+                "description": "Ignora a maioria das habilidades de defesa e terreno."
+              }
+            ],
+            "entity_id": -1,
+            "unitTypeId": "dream_dust_blaster",
+            "startHitpoints": 10,
+            "teamInitiative": 1,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 11
+          },
+          {
+            "pos": {
+              "y": 7,
+              "__class__": "Position"
+            },
+            "unitId": 120,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 410.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "military_boost",
+                "value": 510.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "attacker_defense_boost",
+                "value": 23773,
+                "__class__": "MilitaryUnitBonus"
+              },
+              {
+                "type": "attack_boost",
+                "value": 25625,
+                "__class__": "MilitaryUnitBonus"
+              }
+            ],
+            "ownerId": 849240527,
+            "startpos": {
+              "y": 7,
+              "__class__": "Position"
+            },
+            "teamFlag": 1,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "rogue",
+                "name": "Identidade secreta",
+                "type": "rogue",
+                "value": "own",
+                "__class__": "BattleRogueAbility",
+                "description": "Ignora primeiro dano e transforma-se em outra unidade do seu exército. Morre se não houver unidades restantes sem identidade secreta.",
+                "used_at_step": 3,
+                "fake_identity": {
+                  "name": "Desintegrador de Poeira dos Sonhos",
+                  "range": 24,
+                  "minEra": "SpaceAgeSpaceHub",
+                  "points": 2750,
+                  "__class__": "UnitType",
+                  "baseArmor": 975,
+                  "hitpoints": 10,
+                  "unitClass": "long_ranged",
+                  "baseDamage": 1075,
+                  "initiative": 40,
+                  "unitTypeId": "dream_dust_blaster",
+                  "attackBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 500,
+                      "light_melee": 500,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 50,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingCost": {
+                    "__class__": "Resources",
+                    "resources": []
+                  },
+                  "defenseBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 500,
+                      "light_melee": 500,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 90,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingSpeed": 1440,
+                  "movementCosts": {
+                    "hills": 2,
+                    "plain": 0,
+                    "rocks": 2,
+                    "swamp": 0,
+                    "water": 0,
+                    "bushes": 0,
+                    "crater": 2,
+                    "forest": 2,
+                    "rubble": 2,
+                    "trench": 2,
+                    "house_a": 4,
+                    "house_b": 4,
+                    "house_c": 4,
+                    "house_d": 4,
+                    "house_e": 4,
+                    "barbwire": 2,
+                    "blockade_a": 2,
+                    "blockade_b": 2,
+                    "sandbagcircle": 2
+                  },
+                  "unitAssetName": "dream_dust_blaster",
+                  "movementPoints": 12,
+                  "configAbilities": [
+                    {
+                      "icon": "double_damage",
+                      "name": "Visão aguçada ",
+                      "type": "double_damage",
+                      "value": 45,
+                      "__class__": "BattleDoubleDamageAbility",
+                      "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+                    },
+                    {
+                      "icon": "power_shot",
+                      "name": "Jogada potente",
+                      "type": "power_shot",
+                      "__class__": "BattlePowerShotAbility",
+                      "description": "Ignora a maioria das habilidades de defesa e terreno."
+                    }
+                  ],
+                  "healingCostPerHitpoint": 4
+                },
+                "real_identity": {
+                  "name": "Agente Secreto",
+                  "range": 1,
+                  "minEra": "NoAge",
+                  "points": 20,
+                  "__class__": "UnitType",
+                  "baseArmor": 1,
+                  "hitpoints": 10,
+                  "unitClass": "light_melee",
+                  "baseDamage": 100,
+                  "initiative": 1,
+                  "unitTypeId": "rogue",
+                  "attackBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 0,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingCost": {
+                    "__class__": "Resources",
+                    "resources": []
+                  },
+                  "defenseBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 0,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingSpeed": 8640,
+                  "movementCosts": {
+                    "hills": 0,
+                    "plain": 0,
+                    "rocks": 0,
+                    "swamp": 0,
+                    "water": 0,
+                    "bushes": 0,
+                    "crater": 0,
+                    "forest": 0,
+                    "rubble": 0,
+                    "trench": 0,
+                    "house_a": 0,
+                    "house_b": 0,
+                    "house_c": 0,
+                    "house_d": 0,
+                    "house_e": 0,
+                    "barbwire": 0,
+                    "blockade_a": 0,
+                    "blockade_b": 0,
+                    "sandbagcircle": 0
+                  },
+                  "unitAssetName": "rogue",
+                  "movementPoints": 14,
+                  "configAbilities": [
+                    {
+                      "icon": "rogue",
+                      "name": "Identidade secreta",
+                      "type": "rogue",
+                      "value": "own",
+                      "__class__": "BattleRogueAbility",
+                      "description": "Ignora primeiro dano e transforma-se em outra unidade do seu exército. Morre se não houver unidades restantes sem identidade secreta.",
+                      "used_at_step": -1
+                    }
+                  ],
+                  "healingCostPerHitpoint": 4
+                }
+              },
+              {
+                "type": "critical_hit_chance",
+                "value": 56.35333335,
+                "__class__": "BattleCriticalHitChanceAbility"
+              },
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "power_shot",
+                "name": "Jogada potente",
+                "type": "power_shot",
+                "__class__": "BattlePowerShotAbility",
+                "description": "Ignora a maioria das habilidades de defesa e terreno."
+              }
+            ],
+            "unitTypeId": "rogue",
+            "is_attacking": true,
+            "startHitpoints": 10,
+            "teamInitiative": 4,
+            "currentHitpoints": 10,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 12,
+            "next_healing_step_size": 5184
+          },
+          {
+            "pos": {
+              "y": 6,
+              "__class__": "Position"
+            },
+            "unitId": 2168,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 410.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "military_boost",
+                "value": 510.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "attacker_defense_boost",
+                "value": 23773,
+                "__class__": "MilitaryUnitBonus"
+              },
+              {
+                "type": "attack_boost",
+                "value": 25625,
+                "__class__": "MilitaryUnitBonus"
+              }
+            ],
+            "ownerId": 849240527,
+            "startpos": {
+              "y": 6,
+              "__class__": "Position"
+            },
+            "teamFlag": 1,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "rogue",
+                "name": "Identidade secreta",
+                "type": "rogue",
+                "value": "own",
+                "__class__": "BattleRogueAbility",
+                "description": "Ignora primeiro dano e transforma-se em outra unidade do seu exército. Morre se não houver unidades restantes sem identidade secreta.",
+                "used_at_step": 4,
+                "fake_identity": {
+                  "name": "Desintegrador de Poeira dos Sonhos",
+                  "range": 24,
+                  "minEra": "SpaceAgeSpaceHub",
+                  "points": 2750,
+                  "__class__": "UnitType",
+                  "baseArmor": 975,
+                  "hitpoints": 10,
+                  "unitClass": "long_ranged",
+                  "baseDamage": 1075,
+                  "initiative": 40,
+                  "unitTypeId": "dream_dust_blaster",
+                  "attackBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 500,
+                      "light_melee": 500,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 50,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingCost": {
+                    "__class__": "Resources",
+                    "resources": []
+                  },
+                  "defenseBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 500,
+                      "light_melee": 500,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 90,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingSpeed": 1440,
+                  "movementCosts": {
+                    "hills": 2,
+                    "plain": 0,
+                    "rocks": 2,
+                    "swamp": 0,
+                    "water": 0,
+                    "bushes": 0,
+                    "crater": 2,
+                    "forest": 2,
+                    "rubble": 2,
+                    "trench": 2,
+                    "house_a": 4,
+                    "house_b": 4,
+                    "house_c": 4,
+                    "house_d": 4,
+                    "house_e": 4,
+                    "barbwire": 2,
+                    "blockade_a": 2,
+                    "blockade_b": 2,
+                    "sandbagcircle": 2
+                  },
+                  "unitAssetName": "dream_dust_blaster",
+                  "movementPoints": 12,
+                  "configAbilities": [
+                    {
+                      "icon": "double_damage",
+                      "name": "Visão aguçada ",
+                      "type": "double_damage",
+                      "value": 45,
+                      "__class__": "BattleDoubleDamageAbility",
+                      "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+                    },
+                    {
+                      "icon": "power_shot",
+                      "name": "Jogada potente",
+                      "type": "power_shot",
+                      "__class__": "BattlePowerShotAbility",
+                      "description": "Ignora a maioria das habilidades de defesa e terreno."
+                    }
+                  ],
+                  "healingCostPerHitpoint": 4
+                },
+                "real_identity": {
+                  "name": "Agente Secreto",
+                  "range": 1,
+                  "minEra": "NoAge",
+                  "points": 20,
+                  "__class__": "UnitType",
+                  "baseArmor": 1,
+                  "hitpoints": 10,
+                  "unitClass": "light_melee",
+                  "baseDamage": 100,
+                  "initiative": 1,
+                  "unitTypeId": "rogue",
+                  "attackBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 0,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingCost": {
+                    "__class__": "Resources",
+                    "resources": []
+                  },
+                  "defenseBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 0,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingSpeed": 8640,
+                  "movementCosts": {
+                    "hills": 0,
+                    "plain": 0,
+                    "rocks": 0,
+                    "swamp": 0,
+                    "water": 0,
+                    "bushes": 0,
+                    "crater": 0,
+                    "forest": 0,
+                    "rubble": 0,
+                    "trench": 0,
+                    "house_a": 0,
+                    "house_b": 0,
+                    "house_c": 0,
+                    "house_d": 0,
+                    "house_e": 0,
+                    "barbwire": 0,
+                    "blockade_a": 0,
+                    "blockade_b": 0,
+                    "sandbagcircle": 0
+                  },
+                  "unitAssetName": "rogue",
+                  "movementPoints": 14,
+                  "configAbilities": [
+                    {
+                      "icon": "rogue",
+                      "name": "Identidade secreta",
+                      "type": "rogue",
+                      "value": "own",
+                      "__class__": "BattleRogueAbility",
+                      "description": "Ignora primeiro dano e transforma-se em outra unidade do seu exército. Morre se não houver unidades restantes sem identidade secreta.",
+                      "used_at_step": -1
+                    }
+                  ],
+                  "healingCostPerHitpoint": 4
+                }
+              },
+              {
+                "type": "critical_hit_chance",
+                "value": 56.35333335,
+                "__class__": "BattleCriticalHitChanceAbility"
+              },
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "power_shot",
+                "name": "Jogada potente",
+                "type": "power_shot",
+                "__class__": "BattlePowerShotAbility",
+                "description": "Ignora a maioria das habilidades de defesa e terreno."
+              }
+            ],
+            "unitTypeId": "rogue",
+            "is_attacking": true,
+            "startHitpoints": 10,
+            "teamInitiative": 3,
+            "currentHitpoints": 10,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 13,
+            "next_healing_step_size": 5184
+          },
+          {
+            "pos": {
+              "y": 8,
+              "__class__": "Position"
+            },
+            "unitId": 4216,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 410.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "military_boost",
+                "value": 510.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "attacker_defense_boost",
+                "value": 23773,
+                "__class__": "MilitaryUnitBonus"
+              },
+              {
+                "type": "attack_boost",
+                "value": 25625,
+                "__class__": "MilitaryUnitBonus"
+              }
+            ],
+            "ownerId": 849240527,
+            "startpos": {
+              "y": 8,
+              "__class__": "Position"
+            },
+            "teamFlag": 1,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "rogue",
+                "name": "Identidade secreta",
+                "type": "rogue",
+                "value": "own",
+                "__class__": "BattleRogueAbility",
+                "description": "Ignora primeiro dano e transforma-se em outra unidade do seu exército. Morre se não houver unidades restantes sem identidade secreta.",
+                "used_at_step": 9,
+                "fake_identity": {
+                  "name": "Artilheiro da Gravidade",
+                  "range": 14,
+                  "minEra": "SpaceAgeSpaceHub",
+                  "points": 2750,
+                  "__class__": "UnitType",
+                  "baseArmor": 1075,
+                  "hitpoints": 10,
+                  "unitClass": "short_ranged",
+                  "baseDamage": 925,
+                  "initiative": 45,
+                  "unitTypeId": "gravity_gunner",
+                  "attackBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 500,
+                      "long_ranged": 500,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingCost": {
+                    "__class__": "Resources",
+                    "resources": []
+                  },
+                  "defenseBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 500,
+                      "long_ranged": 500,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingSpeed": 1440,
+                  "movementCosts": {
+                    "hills": 0,
+                    "plain": 0,
+                    "rocks": 4,
+                    "swamp": 4,
+                    "water": 4,
+                    "bushes": 0,
+                    "crater": 2,
+                    "forest": 0,
+                    "rubble": 2,
+                    "trench": 2,
+                    "house_a": 0,
+                    "house_b": 0,
+                    "house_c": 0,
+                    "house_d": 0,
+                    "house_e": 0,
+                    "barbwire": 0,
+                    "blockade_a": 0,
+                    "blockade_b": 0,
+                    "sandbagcircle": 0
+                  },
+                  "unitAssetName": "gravity_gunner",
+                  "movementPoints": 16,
+                  "configAbilities": [
+                    {
+                      "icon": "double_damage",
+                      "name": "Visão aguçada ",
+                      "type": "double_damage",
+                      "value": 45,
+                      "__class__": "BattleDoubleDamageAbility",
+                      "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+                    },
+                    {
+                      "icon": "contact",
+                      "name": "Contato!",
+                      "type": "contact",
+                      "__class__": "BattleContactAbility",
+                      "description": "Sempre faz retaliação contra ataques."
+                    }
+                  ],
+                  "healingCostPerHitpoint": 4
+                },
+                "real_identity": {
+                  "name": "Agente Secreto",
+                  "range": 1,
+                  "minEra": "NoAge",
+                  "points": 20,
+                  "__class__": "UnitType",
+                  "baseArmor": 1,
+                  "hitpoints": 10,
+                  "unitClass": "light_melee",
+                  "baseDamage": 100,
+                  "initiative": 1,
+                  "unitTypeId": "rogue",
+                  "attackBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 0,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingCost": {
+                    "__class__": "Resources",
+                    "resources": []
+                  },
+                  "defenseBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 0,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingSpeed": 8640,
+                  "movementCosts": {
+                    "hills": 0,
+                    "plain": 0,
+                    "rocks": 0,
+                    "swamp": 0,
+                    "water": 0,
+                    "bushes": 0,
+                    "crater": 0,
+                    "forest": 0,
+                    "rubble": 0,
+                    "trench": 0,
+                    "house_a": 0,
+                    "house_b": 0,
+                    "house_c": 0,
+                    "house_d": 0,
+                    "house_e": 0,
+                    "barbwire": 0,
+                    "blockade_a": 0,
+                    "blockade_b": 0,
+                    "sandbagcircle": 0
+                  },
+                  "unitAssetName": "rogue",
+                  "movementPoints": 14,
+                  "configAbilities": [
+                    {
+                      "icon": "rogue",
+                      "name": "Identidade secreta",
+                      "type": "rogue",
+                      "value": "own",
+                      "__class__": "BattleRogueAbility",
+                      "description": "Ignora primeiro dano e transforma-se em outra unidade do seu exército. Morre se não houver unidades restantes sem identidade secreta.",
+                      "used_at_step": -1
+                    }
+                  ],
+                  "healingCostPerHitpoint": 4
+                }
+              },
+              {
+                "type": "critical_hit_chance",
+                "value": 56.35333335,
+                "__class__": "BattleCriticalHitChanceAbility"
+              },
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "contact",
+                "name": "Contato!",
+                "type": "contact",
+                "__class__": "BattleContactAbility",
+                "description": "Sempre faz retaliação contra ataques."
+              }
+            ],
+            "unitTypeId": "rogue",
+            "is_attacking": true,
+            "startHitpoints": 10,
+            "teamInitiative": 2,
+            "currentHitpoints": 10,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 14,
+            "next_healing_step_size": 5184
+          },
+          {
+            "pos": {
+              "y": 5,
+              "__class__": "Position"
+            },
+            "unitId": 6264,
+            "bonuses": [
+              {
+                "type": "military_boost",
+                "value": 410.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "military_boost",
+                "value": 510.0,
+                "__class__": "GreatBuildingUnitBonus",
+                "bonusCategory": {
+                  "value": "passiveBonus",
+                  "__enum__": "GreatBuildingBonusCategory"
+                },
+                "targetedFeature": "all"
+              },
+              {
+                "type": "attacker_defense_boost",
+                "value": 23773,
+                "__class__": "MilitaryUnitBonus"
+              },
+              {
+                "type": "attack_boost",
+                "value": 25625,
+                "__class__": "MilitaryUnitBonus"
+              }
+            ],
+            "ownerId": 849240527,
+            "startpos": {
+              "y": 5,
+              "__class__": "Position"
+            },
+            "teamFlag": 1,
+            "__class__": "BattleUnit",
+            "abilities": [
+              {
+                "icon": "rogue",
+                "name": "Identidade secreta",
+                "type": "rogue",
+                "value": "own",
+                "__class__": "BattleRogueAbility",
+                "description": "Ignora primeiro dano e transforma-se em outra unidade do seu exército. Morre se não houver unidades restantes sem identidade secreta.",
+                "fake_identity": {
+                  "name": "Desintegrador de Poeira dos Sonhos",
+                  "range": 24,
+                  "minEra": "SpaceAgeSpaceHub",
+                  "points": 2750,
+                  "__class__": "UnitType",
+                  "baseArmor": 975,
+                  "hitpoints": 10,
+                  "unitClass": "long_ranged",
+                  "baseDamage": 1075,
+                  "initiative": 40,
+                  "unitTypeId": "dream_dust_blaster",
+                  "attackBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 500,
+                      "light_melee": 500,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 50,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingCost": {
+                    "__class__": "Resources",
+                    "resources": []
+                  },
+                  "defenseBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 500,
+                      "light_melee": 500,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 90,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingSpeed": 1440,
+                  "movementCosts": {
+                    "hills": 2,
+                    "plain": 0,
+                    "rocks": 2,
+                    "swamp": 0,
+                    "water": 0,
+                    "bushes": 0,
+                    "crater": 2,
+                    "forest": 2,
+                    "rubble": 2,
+                    "trench": 2,
+                    "house_a": 4,
+                    "house_b": 4,
+                    "house_c": 4,
+                    "house_d": 4,
+                    "house_e": 4,
+                    "barbwire": 2,
+                    "blockade_a": 2,
+                    "blockade_b": 2,
+                    "sandbagcircle": 2
+                  },
+                  "unitAssetName": "dream_dust_blaster",
+                  "movementPoints": 12,
+                  "configAbilities": [
+                    {
+                      "icon": "double_damage",
+                      "name": "Visão aguçada ",
+                      "type": "double_damage",
+                      "value": 45,
+                      "__class__": "BattleDoubleDamageAbility",
+                      "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+                    },
+                    {
+                      "icon": "power_shot",
+                      "name": "Jogada potente",
+                      "type": "power_shot",
+                      "__class__": "BattlePowerShotAbility",
+                      "description": "Ignora a maioria das habilidades de defesa e terreno."
+                    }
+                  ],
+                  "healingCostPerHitpoint": 4
+                },
+                "real_identity": {
+                  "name": "Agente Secreto",
+                  "range": 1,
+                  "minEra": "NoAge",
+                  "points": 20,
+                  "__class__": "UnitType",
+                  "baseArmor": 1,
+                  "hitpoints": 10,
+                  "unitClass": "light_melee",
+                  "baseDamage": 100,
+                  "initiative": 1,
+                  "unitTypeId": "rogue",
+                  "attackBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 0,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingCost": {
+                    "__class__": "Resources",
+                    "resources": []
+                  },
+                  "defenseBonus": {
+                    "units": {
+                      "fast": 0,
+                      "heavy_melee": 0,
+                      "light_melee": 0,
+                      "long_ranged": 0,
+                      "short_ranged": 0
+                    },
+                    "terrains": {
+                      "hills": 0,
+                      "plain": 0,
+                      "rocks": 0,
+                      "swamp": 0,
+                      "water": 0,
+                      "bushes": 0,
+                      "crater": 0,
+                      "forest": 0,
+                      "rubble": 0,
+                      "trench": 0,
+                      "house_a": 0,
+                      "house_b": 0,
+                      "house_c": 0,
+                      "house_d": 0,
+                      "house_e": 0,
+                      "barbwire": 0,
+                      "blockade_a": 0,
+                      "blockade_b": 0,
+                      "sandbagcircle": 0
+                    }
+                  },
+                  "healingSpeed": 8640,
+                  "movementCosts": {
+                    "hills": 0,
+                    "plain": 0,
+                    "rocks": 0,
+                    "swamp": 0,
+                    "water": 0,
+                    "bushes": 0,
+                    "crater": 0,
+                    "forest": 0,
+                    "rubble": 0,
+                    "trench": 0,
+                    "house_a": 0,
+                    "house_b": 0,
+                    "house_c": 0,
+                    "house_d": 0,
+                    "house_e": 0,
+                    "barbwire": 0,
+                    "blockade_a": 0,
+                    "blockade_b": 0,
+                    "sandbagcircle": 0
+                  },
+                  "unitAssetName": "rogue",
+                  "movementPoints": 14,
+                  "configAbilities": [
+                    {
+                      "icon": "rogue",
+                      "name": "Identidade secreta",
+                      "type": "rogue",
+                      "value": "own",
+                      "__class__": "BattleRogueAbility",
+                      "description": "Ignora primeiro dano e transforma-se em outra unidade do seu exército. Morre se não houver unidades restantes sem identidade secreta.",
+                      "used_at_step": -1
+                    }
+                  ],
+                  "healingCostPerHitpoint": 4
+                }
+              },
+              {
+                "type": "critical_hit_chance",
+                "value": 56.35333335,
+                "__class__": "BattleCriticalHitChanceAbility"
+              },
+              {
+                "icon": "double_damage",
+                "name": "Visão aguçada ",
+                "type": "double_damage",
+                "value": 45,
+                "__class__": "BattleDoubleDamageAbility",
+                "description": "Ao atacar, concede uma chance de X% de dobrar o dano contra unidades inimigas de qualquer era."
+              },
+              {
+                "icon": "power_shot",
+                "name": "Jogada potente",
+                "type": "power_shot",
+                "__class__": "BattlePowerShotAbility",
+                "description": "Ignora a maioria das habilidades de defesa e terreno."
+              }
+            ],
+            "unitTypeId": "rogue",
+            "is_attacking": true,
+            "startHitpoints": 10,
+            "teamInitiative": 1,
+            "currentHitpoints": 7,
+            "lastRetaliationRound": -1,
+            "initialUnitOrderIndex": 15,
+            "next_healing_step_size": 5184
+          }
+        ],
+        "stepHistory": [
+          {
+            "path": [
+              {
+                "x": 13,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 12,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 11,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 10,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 9,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 8,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 7,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 6,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 5,
+                "y": 4,
+                "__class__": "Position"
+              },
+              {
+                "x": 4,
+                "y": 4,
+                "__class__": "Position"
+              }
+            ],
+            "unitId": -6,
+            "__class__": "BattleStep",
+            "unitHitpoints": 10,
+            "attackedUnitId": 6264,
+            "receivedDamage": -1,
+            "appliedAbilities": [
+              "double_damage"
+            ],
+            "attackedUnitHitpoints": 10
+          },
+          {
+            "path": [
+              {
+                "x": 13,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 12,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 11,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 10,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 9,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 8,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 7,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 6,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 5,
+                "y": 9,
+                "__class__": "Position"
+              },
+              {
+                "x": 4,
+                "y": 9,
+                "__class__": "Position"
+              }
+            ],
+            "unitId": -5,
+            "__class__": "BattleStep",
+            "dealtDamage": 4,
+            "unitHitpoints": 10,
+            "attackedUnitId": 123,
+            "receivedDamage": -1,
+            "appliedAbilities": [
+              "double_damage"
+            ],
+            "attackedUnitHitpoints": 6
+          },
+          {
+            "path": [
+              {
+                "x": 13,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 12,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 11,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 10,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 9,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 8,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 7,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 6,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 5,
+                "y": 5,
+                "__class__": "Position"
+              },
+              {
+                "x": 4,
+                "y": 5,
+                "__class__": "Position"
+              }
+            ],
+            "unitId": -4,
+            "__class__": "BattleStep",
+            "dealtDamage": 2,
+            "unitHitpoints": 10,
+            "attackedUnitId": 6264,
+            "receivedDamage": -1,
+            "appliedAbilities": [
+              "double_damage"
+            ],
+            "attackedUnitHitpoints": 8
+          },
+          {
+            "path": [
+              {
+                "x": 13,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 12,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 11,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 10,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 9,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 8,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 7,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 6,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 5,
+                "y": 7,
+                "__class__": "Position"
+              },
+              {
+                "x": 4,
+                "y": 7,
+                "__class__": "Position"
+              }
+            ],
+            "unitId": -3,
+            "__class__": "BattleStep",
+            "unitHitpoints": 10,
+            "attackedUnitId": 120,
+            "receivedDamage": -1,
+            "appliedAbilities": [
+              "double_damage"
+            ],
+            "attackedUnitHitpoints": 10
+          },
+          {
+            "path": [
+              {
+                "x": 13,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 12,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 11,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 10,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 9,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 8,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 7,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 6,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 5,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 4,
+                "y": 6,
+                "__class__": "Position"
+              }
+            ],
+            "unitId": -2,
+            "__class__": "BattleStep",
+            "unitHitpoints": 10,
+            "attackedUnitId": 2168,
+            "receivedDamage": -1,
+            "attackedUnitHitpoints": 10
+          },
+          {
+            "path": [
+              {
+                "x": 14,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 13,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 12,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 11,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 10,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 9,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 8,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 7,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 6,
+                "y": 6,
+                "__class__": "Position"
+              },
+              {
+                "x": 5,
+                "y": 6,
+                "__class__": "Position"
+              }
+            ],
+            "unitId": -1,
+            "__class__": "BattleStep",
+            "unitHitpoints": 10
+          },
+          {
+            "path": [],
+            "unitId": 129,
+            "__class__": "BattleStep",
+            "dealtDamage": 7,
+            "unitHitpoints": 10,
+            "attackedUnitId": -6,
+            "receivedDamage": -1,
+            "attackedUnitHitpoints": 3
+          },
+          {
+            "path": [],
+            "unitId": 2177,
+            "__class__": "BattleStep",
+            "dealtDamage": 16,
+            "unitHitpoints": 10,
+            "attackedUnitId": -6,
+            "receivedDamage": -1,
+            "appliedAbilities": [
+              "double_damage"
+            ]
+          },
+          {
+            "path": [],
+            "unitId": 123,
+            "__class__": "BattleStep",
+            "dealtDamage": 8,
+            "unitHitpoints": 6,
+            "attackedUnitId": -5,
+            "receivedDamage": -1,
+            "attackedUnitHitpoints": 2
+          },
+          {
+            "path": [
+              {
+                "x": 14,
+                "y": 2,
+                "__class__": "Position"
+              },
+              {
+                "x": 13,
+                "y": 2,
+                "__class__": "Position"
+              },
+              {
+                "x": 12,
+                "y": 2,
+                "__class__": "Position"
+              }
+            ],
+            "unitId": -8,
+            "__class__": "BattleStep",
+            "unitHitpoints": 10,
+            "attackedUnitId": 4216,
+            "receivedDamage": -1,
+            "appliedAbilities": [
+              "double_damage"
+            ],
+            "attackedUnitHitpoints": 10
+          },
+          {
+            "path": [],
+            "unitId": 2171,
+            "__class__": "BattleStep",
+            "dealtDamage": 24,
+            "unitHitpoints": 10,
+            "attackedUnitId": -5,
+            "receivedDamage": -1,
+            "wasCriticalHit": true,
+            "appliedAbilities": [
+              "critical_hit_chance",
+              "double_damage"
+            ]
+          },
+          {
+            "path": [
+              {
+                "x": 13,
+                "y": 11,
+                "__class__": "Position"
+              },
+              {
+                "x": 13,
+                "y": 12,
+                "__class__": "Position"
+              },
+              {
+                "x": 12,
+                "y": 13,
+                "__class__": "Position"
+              }
+            ],
+            "unitId": -7,
+            "__class__": "BattleStep",
+            "dealtDamage": 1,
+            "unitHitpoints": 10,
+            "attackedUnitId": 6264,
+            "receivedDamage": -1,
+            "attackedUnitHitpoints": 7
+          },
+          {
+            "path": [],
+            "unitId": 120,
+            "__class__": "BattleStep",
+            "dealtDamage": 12,
+            "unitHitpoints": 10,
+            "attackedUnitId": -4,
+            "receivedDamage": -1,
+            "wasCriticalHit": true,
+            "appliedAbilities": [
+              "critical_hit_chance"
+            ]
+          },
+          {
+            "path": [],
+            "unitId": 2168,
+            "__class__": "BattleStep",
+            "dealtDamage": 11,
+            "unitHitpoints": 10,
+            "attackedUnitId": -3,
+            "receivedDamage": -1,
+            "wasCriticalHit": true,
+            "appliedAbilities": [
+              "critical_hit_chance"
+            ]
+          },
+          {
+            "path": [],
+            "unitId": 4216,
+            "__class__": "BattleStep",
+            "dealtDamage": 22,
+            "unitHitpoints": 10,
+            "attackedUnitId": -2,
+            "receivedDamage": -1,
+            "wasCriticalHit": true,
+            "appliedAbilities": [
+              "critical_hit_chance",
+              "double_damage"
+            ]
+          },
+          {
+            "path": [],
+            "unitId": 6264,
+            "__class__": "BattleStep",
+            "dealtDamage": 12,
+            "unitHitpoints": 7,
+            "attackedUnitId": -1,
+            "receivedDamage": -1,
+            "wasCriticalHit": true,
+            "appliedAbilities": [
+              "critical_hit_chance"
+            ]
+          },
+          {
+            "path": [
+              {
+                "y": 11,
+                "__class__": "Position"
+              },
+              {
+                "x": 1,
+                "y": 11,
+                "__class__": "Position"
+              },
+              {
+                "x": 2,
+                "y": 11,
+                "__class__": "Position"
+              },
+              {
+                "x": 3,
+                "y": 11,
+                "__class__": "Position"
+              }
+            ],
+            "round": 1,
+            "unitId": 129,
+            "__class__": "BattleStep",
+            "dealtDamage": 24,
+            "unitHitpoints": 10,
+            "attackedUnitId": -7,
+            "receivedDamage": -1,
+            "wasCriticalHit": true,
+            "appliedAbilities": [
+              "critical_hit_chance",
+              "double_damage"
+            ]
+          },
+          {
+            "path": [
+              {
+                "x": 1,
+                "y": 2,
+                "__class__": "Position"
+              },
+              {
+                "x": 2,
+                "y": 2,
+                "__class__": "Position"
+              }
+            ],
+            "round": 1,
+            "unitId": 2177,
+            "__class__": "BattleStep",
+            "dealtDamage": 22,
+            "unitHitpoints": 10,
+            "attackedUnitId": -8,
+            "receivedDamage": -1,
+            "wasCriticalHit": true,
+            "appliedAbilities": [
+              "critical_hit_chance",
+              "double_damage"
+            ]
+          }
+        ],
+        "activeUnitId": 123,
+        "ranking_data": {
+          "winner": 1,
+          "details": {
+            "sum": 508750,
+            "__class__": "BattleResultDetails",
+            "damageDealt": 440000,
+            "damageRecieved": -19250,
+            "happinessModifier": 88000
+          },
+          "ranking": [
+            {
+              "era": "SpaceAgeSpaceHub",
+              "place": 9,
+              "fights": 1388,
+              "player": {
+                "era": "SpaceAgeSpaceHub",
+                "name": "BernardoV",
+                "avatar": "portrait_id_27",
+                "__class__": "Player",
+                "player_id": 686605
+              },
+              "__class__": "CampaignPvpRanking",
+              "total_points": 1484494875
+            },
+            {
+              "era": "SpaceAgeSpaceHub",
+              "place": 10,
+              "fights": 4105,
+              "player": {
+                "era": "SpaceAgeSpaceHub",
+                "name": "Jey.",
+                "avatar": "addon_portrait_id_soccer23_1",
+                "__class__": "Player",
+                "player_id": 849240527
+              },
+              "points": 508750,
+              "__class__": "CampaignPvpRanking",
+              "total_points": 1463875730,
+              "battle_result_details": {
+                "sum": 508750,
+                "__class__": "BattleResultDetails",
+                "damageDealt": 440000,
+                "damageRecieved": -19250,
+                "happinessModifier": 88000
+              }
+            },
+            {
+              "era": "SpaceAgeSpaceHub",
+              "place": 11,
+              "fights": 1188,
+              "player": {
+                "era": "SpaceAgeSpaceHub",
+                "name": "Mr. Stark",
+                "avatar": "portrait_id_92",
+                "__class__": "Player",
+                "player_id": 1689281
+              },
+              "__class__": "CampaignPvpRanking",
+              "total_points": 1347005425
+            }
+          ],
+          "__class__": "BattleResult",
+          "mood_factor": 120,
+          "tournament_running": true
+        },
+        "retiredUnits": [],
+        "distance_scale_factor": 1.5
+      },
+      "battleId": 134502945,
+      "__class__": "BattleRealm",
+      "startTime": 1782053292,
+      "battleType": {
+        "era": "SpaceAgeSpaceHub",
+        "type": "battleground",
+        "trial": 1,
+        "__class__": "BattlegroundBattleType",
+        "battlesWon": 2679,
+        "provinceId": 21,
+        "totalWaves": 1
+      },
+      "isAutoBattle": true,
+      "attackerPlayerId": 849240527
+    },
+    "requestMethod": "startByBattleType"
+  }
+}

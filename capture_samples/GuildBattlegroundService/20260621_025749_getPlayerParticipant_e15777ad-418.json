@@ -1,0 +1,24 @@
+{
+  "request_id": "e15777ad-418a-4cef-b8fd-829cac06bf2f",
+  "service_name": "GuildBattlegroundService",
+  "method_name": "getPlayerParticipant",
+  "player_id": "unknown",
+  "world_id": "br10",
+  "captured_at": "2026-06-21 02:57:49.489956+00:00",
+  "service_payload": {
+    "__class__": "ServerResponse",
+    "requestId": 24,
+    "requestClass": "GuildBattlegroundService",
+    "responseData": {
+      "__class__": "GuildBattlegroundPlayerParticipant",
+      "attrition": {
+        "level": 164,
+        "__class__": "GuildBattlegroundAttrition",
+        "defendingArmyBonus": 41325,
+        "negotiationMultiplier": 405
+      },
+      "activeTrial": 1
+    },
+    "requestMethod": "getPlayerParticipant"
+  }
+}
